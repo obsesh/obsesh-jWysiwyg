@@ -1,0 +1,1 @@
+Added support for placeholder text. To use, set 'initialContent' to whatever placeholder text you wish, and then set 'treatInitialContentAsPlaceholder' to true.
